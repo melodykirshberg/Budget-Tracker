@@ -6,7 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <meta name="theme-color" content="#317EFB" />
-
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="/style.css" />
   <title>Budget Tracker</title>
@@ -14,10 +13,6 @@
 
 <body>
   <div class="wrapper">
-    <div class="total">
-      <div>Your total is: $<span id="total">0</span></div>
-    </div>
-
     <form class="form">
       <label for="t-name">Transaction Name:</label>
       <input type="text" id="t-name" placeholder="Name" />
@@ -47,7 +42,6 @@
     <canvas id="my-chart"></canvas>
   </div>
 
-  <script src="app.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
   <script src="/db.js"></script>
   <script src="/index.js"></script>
