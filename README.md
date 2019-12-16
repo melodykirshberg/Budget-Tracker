@@ -15,7 +15,7 @@ In your terminal type:
 * For further instructions, visit https://help.github.com
 
 ## Demo
-![livedemo](public/workout.gif)
+![livedemo](public/budget.gif)
 Live Link: https://frozen-headland-55130.herokuapp.com/
 
 ## Credits
