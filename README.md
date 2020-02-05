@@ -5,6 +5,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 ## Table of Contents
 * [Installation](#installation)
+* [Technologies-Libraries](#technologies-libraries)
 * [Demo](#demo)
 * [Credits](#credits)
 
@@ -14,9 +15,14 @@ In your terminal type:
 * Open in Visual Studio to build and run.
 * For further instructions, visit https://help.github.com
 
+## Technologies-Libraries
+IndexedDB - Express - Mongoose - JavaScript - HTML - CSS 
+
 ## Demo
 ![livedemo](public/budget.gif)
-Live Link: https://frozen-headland-55130.herokuapp.com/
+
+Live link: https://verlitas-budgettracker.herokuapp.com/
 
 ## Credits
+[Melody Kirshberg](https://github.com/verlitas)  
 [UABootCamp](https://bootcamp.ce.arizona.edu/coding/)  
